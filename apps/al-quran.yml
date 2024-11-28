@@ -1,0 +1,20 @@
+name: Quran
+description: Read and listen to The Noble Quran
+icon: https://al-quran.reflectslight.io/images/og/0.png
+screenshots:
+ - https://al-quran.reflectslight.io/i/al-quran.kaiOS.png
+license: GPLv3
+website: https://github.com/ReflectsLight/al-quran.KaiOS#readme
+git_repo: https://github.com/ReflectsLight/al-quran.KaiOS#readme
+download:
+  url: https://github.com/user-attachments/files/17943016/al-quran.KaiOS.production-4bc5503.zip
+  manifest: https://gitlab.com/banana-hackers/store-db/-/raw/master/apps/al-quran.json
+author: 0x1eef <0x1eef@proton.me>
+maintainer: 0x1eef <0x1eef@proton.me>
+has_tracking: false
+has_ads: false
+meta:
+  tags: quran; koran; islam; islamic-software; quran study tool; study tool;
+  categories:
+  - education
+type: packaged
